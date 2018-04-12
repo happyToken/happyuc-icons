@@ -9,18 +9,17 @@
 1) Press on `Fork` in the top right corner.
 2) Upload an image in `ethereum/` or `happyuc/` folder on your own fork and commit changes.
 ```
-#### Directory of token images for ERC20 contracts
-##### Ethereum/HappyUC Based Network
-	
+Directory of token images for ERC20 contracts
+Ethereum/HappyUC Based Network
 	`happyuc-chainID.png`
 	`ethereum-chainID.png`
-	Example:
+Example:
 	`happyuc-1.png`
 	`ethereum-1.png`
 
-##### ERC20 Token
+ERC20 Token
 	`contract_address.png`
-	Example:
+Example:
 	`0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png`
 	`Cd26114cd6ee289accf82350c8d8487fedb8a0c07.png`
 ```
