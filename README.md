@@ -31,13 +31,11 @@ Example:
 ## How to Use It? (For Developers)
 Base URL:
 ```js
-https://happyuc.net/tokens-icons/<ethereum|happyuc>/<contract_address>.png
-https://happyuc-project.github.io/HappyToken-icons/<ethereum|happyuc>/<contract_address>.png
+https://raw.githubusercontent.com/happyToken/happyuc-icons/master/ethereum/<ethereum|happyuc>/<contract_address>.png
 ```
 Example:
 ```js
-https://happyuc.net/tokens-icons/ethereum/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png
-https://happyuc-project.github.io/HappyToken-icons/ethereum/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png
+https://raw.githubusercontent.com/happyToken/happyuc-icons/master/ethereum/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png
 ```
 
 ## Used in Applications
