@@ -7,14 +7,14 @@
 
 ## Steps
 1) Press on `Fork` in the top right corner.
-2) Upload an image in `ethereum/` or `happyuc/` folder on your own fork and commit changes.
+2) Upload an image in `ethereum/` or `irchain/` folder on your own fork and commit changes.
 ```
 Directory of token images for ERC20 contracts
-Ethereum/HappyUC Based Network
-	`happyuc-chainID.png`
+Ethereum/IrChain Based Network
+	`irchain-chainID.png`
 	`ethereum-chainID.png`
 Example:
-	`happyuc-1.png`
+	`irchain-1.png`
 	`ethereum-1.png`
 
 ERC20 Token
@@ -31,12 +31,12 @@ Example:
 ## How to Use It? (For Developers)
 Base URL:
 ```js
-https://raw.githubusercontent.com/happyToken/happyuc-icons/master/ethereum/<ethereum|happyuc>/<contract_address>.png
+https://raw.githubusercontent.com/icToken/ic-icons/master/<ethereum|irchain>/<contract_address>.png
 ```
 Example:
 ```js
-https://raw.githubusercontent.com/happyToken/happyuc-icons/master/ethereum/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png
+https://raw.githubusercontent.com/icToken/ic-icons/master/irchain/0x91a55ea8e0734e5190339f34b5ce2134c7831e16.png
 ```
 
 ## Used in Applications
-- [HappyUC Wallet](https://happyuc.com/token/) - iOS and Android 
+- [icToken](https://dapp.irchain.io/token/) - iOS and Android 
