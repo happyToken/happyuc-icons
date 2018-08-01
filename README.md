@@ -32,10 +32,12 @@ Example:
 Base URL:
 ```js
 https://raw.githubusercontent.com/icToken/ic-icons/master/<ethereum|irchain>/<contract_address>.png
+https://s.irchain.io/i<RandomInteger>/<ethereum|irchain>/<contract_address>.png
 ```
 Example:
 ```js
 https://raw.githubusercontent.com/icToken/ic-icons/master/irchain/0x91a55ea8e0734e5190339f34b5ce2134c7831e16.png
+https://s.irchain.io/i10/irchain/0x91a55ea8e0734e5190339f34b5ce2134c7831e16.png
 ```
 
 ## Used in Applications
